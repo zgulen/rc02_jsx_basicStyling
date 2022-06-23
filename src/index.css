@@ -12,12 +12,14 @@ header {
   color: black;
   text-align: center;
   background-color: grey;
-  padding: 2rem;
+  padding: 1.2rem;
 }
 .content{
   overflow: auto;
   padding: 2rem;
-  height: calc(100vh - 318px);
+  height: calc(100vh - 290px);
+  background-color: black;
+  color: white;
 }
 
 
